@@ -1,0 +1,33 @@
+who: 朱鼎
+when:第4周
+
+what：完成迭代二需求：股票信息图标，文档整合
+
+problem:
+
+todo:迭代二开发
+
+who: 吴秦月
+when:第4周
+
+what：完成迭代二需求分析：大盘
+problem:
+
+todo:迭代二开发
+
+
+who: 徐亚帆
+when:第4周
+
+what：完成迭代二需求：行业模块
+problem:
+
+todo:迭代二开发
+
+who: 汪文藻
+when:第4周
+
+what：完成迭代二计划文档，完成详细设计接口定义部分
+problem:
+
+todo:迭代二开发，逻辑层，大盘行情

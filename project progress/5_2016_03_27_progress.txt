@@ -1,0 +1,33 @@
+
+who: 汪文藻
+when:第5周
+
+what：完成迭代二大盘逻辑部分
+problem:
+
+todo:迭代二开发行情逻辑，测试大盘
+
+
+who: 吴秦月
+when:第5周
+
+what：完成迭代二股票逻辑部分
+problem:
+
+todo:迭代二开发股票逻辑，测试股票
+
+who: 徐亚帆
+when:第5周
+
+what：完成迭代二界面部分
+problem:
+
+todo:迭代二界面部分
+
+who: 朱鼎
+when:第5周
+
+what：初步完成迭代二界面画图
+problem:
+
+todo:迭代二界面画图

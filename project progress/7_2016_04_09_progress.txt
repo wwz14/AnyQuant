@@ -1,0 +1,44 @@
+
+
+who: 汪文藻
+when:第7周
+
+what：完成迭代二逻辑层单元测试
+problem:
+
+todo:效率优化
+
+
+
+
+who: 吴秦月
+when:第7周
+
+what：完成迭代二逻辑层单元测试
+problem:
+
+todo:效率优化
+
+
+
+
+who: 徐亚帆
+
+when:第7周
+
+
+what：完成迭代二界面层
+problem:
+
+
+todo:界面交互
+
+who: 朱鼎
+when:第7周
+
+
+what：完成迭代二画图
+problem:
+
+
+todo:界面优化

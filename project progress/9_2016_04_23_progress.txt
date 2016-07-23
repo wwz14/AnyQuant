@@ -1,0 +1,39 @@
+
+
+
+who: 吴秦月
+when:第8周
+
+what：完成迭代三插件安装...bug
+problem:
+
+todo:迭代三
+
+
+
+
+who: 徐亚帆
+when:第8周
+
+what：迭代三业绩预测需求文档 
+problem:
+
+todo:迭代三界面、爬虫
+
+
+
+who: 朱鼎when:第8周
+
+what：迭代三计划文档 
+problem:
+
+todo:迭代三界面
+
+
+
+who: 汪文藻when:第8周
+
+what：迭代三需求文档 
+problem:
+
+todo:迭代三逻辑

@@ -1,0 +1,48 @@
+﻿
+﻿who: 徐亚帆
+
+when:第15周
+
+
+what:界面整合，fix bug
+
+problem:
+
+
+todo:单元测试 fix bug
+
+who: 吴秦月
+
+
+when:第15周
+
+
+what:逻辑层开发,单元测试
+
+problem:
+
+
+todo:逻辑层开发,单元测试
+
+who: 汪文藻
+
+when:第15周
+
+
+what:逻辑层开发,单元测试
+
+problem:
+
+
+todo:逻辑层开发,单元测试
+
+who: 朱鼎
+
+when:第15周
+
+
+what:图表开发
+
+problem:
+
+todo:图表开发

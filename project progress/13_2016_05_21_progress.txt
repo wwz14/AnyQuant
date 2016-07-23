@@ -1,0 +1,45 @@
+﻿
+﻿who: 徐亚帆
+
+
+when:第13周
+
+
+what:界面调整，UI
+
+problem:
+
+
+todo:界面整合
+
+
+
+who: 汪文藻
+
+when:第13周
+
+
+what:逻辑层开发,单元测试
+
+problem:todo:逻辑层开发,单元测试
+
+
+who: 朱鼎
+
+when:第13周
+
+
+what:图表开发
+
+problem:todo:图表开发
+who: 吴秦月
+
+when:第13周
+
+
+what:逻辑层开发,单元测试
+
+problem:
+
+
+todo:逻辑层开发,单元测试

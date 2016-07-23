@@ -1,0 +1,34 @@
+
+
+who: 徐亚帆
+when:第10周
+
+what：爬虫 
+problem:
+
+todo:界面、数据库
+
+who: 朱鼎
+when:第10周
+
+what：爬虫 
+problem:
+
+todo:画图
+
+
+who: 吴秦月
+when:第10周
+
+what：市场行情需求文档 
+problem:
+
+todo:详细设计文档
+
+who: 汪文藻
+when:第10周
+
+what：市场行情需求文档 
+problem:
+
+todo:详细设计文档

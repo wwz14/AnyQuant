@@ -1,0 +1,5 @@
+who：朱鼎  汪文藻  吴秦月  徐亚帆 
+when： 第二周周六
+what：接口完善和代码编写，以及具体流程
+how long：3h
+arrived solutions：各人负责的模块：朱鼎，徐亚帆 界面，吴秦月 汪文藻 逻辑

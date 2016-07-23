@@ -1,0 +1,35 @@
+
+
+
+who: 吴秦月
+when:第8周
+
+what：完成迭代二集成测试修改bug
+problem:
+
+todo:迭代三
+
+
+who: 徐亚帆
+when:第8周
+
+what：完成迭代二界面 
+problem:
+
+todo:迭代三
+
+
+
+who: 朱鼎when:第8周
+
+what：完成迭代二画图及测试 
+problem:
+
+todo:迭代三
+
+who: 汪文藻when:第8周
+
+what：完成了迭代二逻辑层的单元与集成测试 
+problem:
+
+todo:迭代三

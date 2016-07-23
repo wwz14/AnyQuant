@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts - Generate By @isea533/abel533</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="middle">
+        <h1 style="padding: 0px 0 0px;"></h1>
+        <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="main" style="width: 861px;height:540px"></div>
+    </div>
+    <div class="push"></div>
+</div>
+</body>
+<!-- ECharts单文件引入 -->
+<script src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>
+<script type="text/javascript">
+// 基于准备好的dom，初始化echarts图表
+var myChart = echarts.init(document.getElementById('main'));
+
+var option = {"calculable": true,"title": {"text": "sz000001股票能力预测"},"toolbox": {"show": false},"tooltip": {"trigger": "item"},"grid": {"x2": 0,"y2": 0,"x": 0,"y": 60,"borderWidth": 0},"series": [{"type": "radar","data": [{"name": "sz000001股票能力预测","value": [0.9,2.29282E7,71.72,0.536,1.1405325443786982]}]}],"polar": [{"indicator": [{"max": 1.62,"text": "市净率"},{"max": 3.668512E7,"text": "成交量"},{"max": 78.89200000000001,"text": "风险指数"},{"max": 0.804,"text": "上涨概率"},{"max": 1.8248520710059173,"text": "1个月涨幅平均数"}]}]};
+
+// 为echarts对象加载数据
+myChart.setOption(option);
+</script>
+</html>

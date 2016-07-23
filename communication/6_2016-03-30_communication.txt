@@ -1,0 +1,5 @@
+who：朱鼎  汪文藻  吴秦月  徐亚帆 
+when： 第六周周三
+what：部分完成迭代二编码。
+how long：3h
+arrived solutions：继续完成代码构造

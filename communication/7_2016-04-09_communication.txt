@@ -1,0 +1,5 @@
+who：朱鼎  汪文藻  吴秦月  徐亚帆 
+when： 第七周周六
+what：完成迭代二编码。
+how long：3h
+arrived solutions：完成集成，并于周一进行测试

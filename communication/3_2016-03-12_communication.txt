@@ -1,0 +1,5 @@
+who：朱鼎  汪文藻  吴秦月  徐亚帆 
+when： 第三周周六
+what：完成迭代二的项目分析，计划和需求。
+how long：3h
+arrived solutions：周三完成需求评审，周六完成详细设计。

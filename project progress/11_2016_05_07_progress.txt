@@ -1,0 +1,49 @@
+
+
+who: 朱鼎
+
+when:第11周
+
+
+what:图表开发
+
+problem:
+
+
+who: 徐亚帆
+
+when:第11周
+
+
+what:爬虫、界面显示
+
+problem:
+
+
+todo:界面显示
+
+
+who: 吴秦月
+
+when:第11周
+
+
+what:逻辑层开发,单元测试
+
+problem:
+
+
+todo:逻辑层开发,单元测试
+
+who: 汪文藻
+
+when:第11周
+
+
+what:逻辑层开发,单元测试
+
+problem:
+
+
+todo:逻辑层开发,单元测试
+

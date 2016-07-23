@@ -1,0 +1,36 @@
+who: 朱鼎
+when:第6周
+
+what：完成迭代二界面画图部分工作
+problem:
+
+todo:迭代二界面画图
+
+who: 徐亚帆
+when:第6周
+
+what：完成迭代二界面行业模块、外层、PS工作
+problem:
+
+todo:迭代二界面
+
+who: 汪文藻
+when:第6周
+
+what：完成迭代二行情数据，逻辑计算部分，个股macd指数计算部分
+problem:
+
+todo:迭代二逻辑层单元测试
+
+
+who: 吴秦月
+
+when:第6周
+
+
+what：完成迭代二股票列表数据，逻辑计算部分，个股kdj,boll指数计算部分
+
+problem:
+
+
+todo:迭代二逻辑层单元测试

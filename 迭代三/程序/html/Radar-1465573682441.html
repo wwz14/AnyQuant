@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts - Generate By @isea533/abel533</title>
+</head>
+<body>
+<div class="wrapper">
+    <div class="middle">
+        <h1 style="padding: 0px 0 0px;"></h1>
+        <!-- 涓篍Charts鍑嗗涓�涓叿澶囧ぇ灏忥紙瀹介珮锛夌殑Dom -->
+        <div id="main" style="width: 861px;height:540px"></div>
+    </div>
+    <div class="push"></div>
+</div>
+</body>
+<!-- ECharts鍗曟枃浠跺紩鍏� -->
+<script src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>
+<script type="text/javascript">
+// 鍩轰簬鍑嗗濂界殑dom锛屽垵濮嬪寲echarts鍥捐〃
+var myChart = echarts.init(document.getElementById('main'));
+
+var option = {"calculable": true,"title": {"text": "sh601939股票能力预测"},"toolbox": {"show": false},"tooltip": {"trigger": "item"},"grid": {"x2": 0,"y2": 0,"x": 0,"y": 60,"borderWidth": 0},"series": [{"type": "radar","data": [{"name": "sh601939股票能力预测","value": [0.82,7.75987E7,133.65,0.67,1.0]}]}],"polar": [{"indicator": [{"max": 1.148,"text": "市净率"},{"max": 1.0863818E8,"text": "成交量"},{"max": 187.10999999999999,"text": "风险指数"},{"max": 1.0,"text": "上涨概率"},{"max": 1.6,"text": "平均涨跌幅"}]}]};
+
+// 涓篹charts瀵硅薄鍔犺浇鏁版嵁
+myChart.setOption(option);
+</script>
+</html>
