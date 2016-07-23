@@ -1,0 +1,2 @@
+# AnyQuant
+Simple quantitative trading
